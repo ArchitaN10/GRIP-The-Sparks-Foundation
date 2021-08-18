@@ -15,3 +15,6 @@ work to make more profit.
 
 ## TASK 4: Exploratory Data Analysis: Terorrism ##
 Perform EDA on Dataset Terrorism to identify "hot spots" of terrorism.
+
+## TASK 5:Prediction using Decision Tree Algorithm ##
+Create the Decision Tree classifier and visualize it graphically.The classifier would be able to predict the right class of any new data.
