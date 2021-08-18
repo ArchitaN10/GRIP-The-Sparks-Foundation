@@ -6,7 +6,7 @@ Result : Simple Linear Regression model with 96% accuracy\
 Dataset link: [link](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
 
 ## TASK 2: Prediction using unsupervised ML ##
-From 'Iris' dataset predict optimum number of clusters and represent it visually.\
+From 'Iris' dataset predict optimum number of clusters and represent it visually.
 
 ## TASK 3: Exploratory Data Analysis: Retail ##
 Perform EDA on dataset SampleSuperstore.As a business manager, try to find out the weak areas where you can
