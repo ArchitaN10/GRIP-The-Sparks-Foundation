@@ -12,9 +12,5 @@ From 'Iris' dataset predict optimum number of clusters and represent it visually
 Perform EDA on dataset SampleSuperstore.As a business manager, try to find out the weak areas where you can
 work to make more profit.
 
-
-## TASK 4: Exploratory Data Analysis: Terorrism ##
-Perform EDA on Dataset Terrorism to identify "hot spots" of terrorism.
-
-## TASK 5:Prediction using Decision Tree Algorithm ##
+## TASK 4:Prediction using Decision Tree Algorithm ##
 Create the Decision Tree classifier and visualize it graphically.The classifier would be able to predict the right class of any new data.
